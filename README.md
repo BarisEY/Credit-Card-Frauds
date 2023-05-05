@@ -1,4 +1,4 @@
-#Fraudulent Transaction Detection using Random Forest Classifier and Genetic Algorithm
+# Fraudulent Transaction Detection using Random Forest Classifier and Genetic Algorithm
 This Jupyter notebook demonstrates how to use machine learning techniques to detect fraudulent transactions using a random forest classifier and a genetic algorithm for feature selection.
 
 The dataset used in this notebook is obtained from XXX, which contains a large number of credit card transactions, with 30 unknown features and 3 known features. The dataset is highly imbalanced, with only a small percentage of transactions being fraudulent.
